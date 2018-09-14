@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd567b5a-f79d-48ba-bab6-e8722bff7078" name="default" url="http://202.195.167.244">
+        <fileTransfer host="202.195.167.244" port="22" rootFolder="/home/glj/codes/dogsVScats" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
